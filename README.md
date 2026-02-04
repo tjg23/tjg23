@@ -1,7 +1,7 @@
 ## Hi, I'm Tyler Gorton 👋
 - 🎓 I'm a fourth year student majoring in **Software Engineering** and **Philosophy** @ **Iowa State University**
-- 📚 Currently learning mobile development with **React Native** & **Expo**
-- 💬 Ask me about **Rust**, **Nushell**, and **Existentialism**
+- 📚 Currently learning about **compilers** and **programming language theory**
+- 💬 Ask me about **Rust**, **Nushell**, and **Obsidian**
 
 > "Don’t ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive."
 > – Howard Thurman
